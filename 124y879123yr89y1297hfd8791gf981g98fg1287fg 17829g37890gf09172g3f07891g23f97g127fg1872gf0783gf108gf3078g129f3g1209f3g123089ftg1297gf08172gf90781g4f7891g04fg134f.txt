@@ -1,0 +1,1 @@
+[Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('MS4uMTAgfCAlIHsgbXNnICog0JLQt9C70L7QvNCw0L0hIDsgU3RhcnQtUHJvY2VzcyBub3RlcGFkIH0='))| Iex
